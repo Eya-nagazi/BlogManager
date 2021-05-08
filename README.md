@@ -1,0 +1,2 @@
+# BlogManager
+Web application
